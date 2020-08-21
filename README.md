@@ -1,4 +1,4 @@
-### Oi 👋 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 -  :point_left: Me chamo Lucas Andrade, vivo em Uberlândia - Minas Gerais
 -  :house: Atualmente trabalho de casa como Analista de Testes Junior na Everis Uberlândia
