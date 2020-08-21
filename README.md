@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oi 👋 :br:
+
+-  :point_left: Me chamo Lucas Andrade, vivo em Uberlândia - Minas Gerais
+-  :house: Atualmente trabalho de casa como Analista de Testes Junior na Everis Uberlândia
+-  :computer: Entusiasta de tecnologia e automação
+-  :bulb: Desenvolvedor Web por hobby
+-  :zap: Granduando em Engenharia Elétrica pela Universidade Federal de Uberlândia
+
+
+### Hi there 👋 :br: 
 
 <!--
 **Lucas5990/Lucas5990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
