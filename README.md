@@ -1,4 +1,4 @@
-### Oi 👋 :br:
+### Oi 👋 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 -  :point_left: Me chamo Lucas Andrade, vivo em Uberlândia - Minas Gerais
 -  :house: Atualmente trabalho de casa como Analista de Testes Junior na Everis Uberlândia
@@ -7,7 +7,6 @@
 -  :zap: Granduando em Engenharia Elétrica pela Universidade Federal de Uberlândia
 
 
-### Hi there 👋 :br: 
 
 <!--
 **Lucas5990/Lucas5990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
