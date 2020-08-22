@@ -1,6 +1,5 @@
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![Website lbesson.bitbucket.org](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://lbesson.bitbucket.org/)
+
 
 -  :point_left: Me chamo Lucas Andrade, vivo em Uberlândia - Minas Gerais
 -  :house: Atualmente trabalho de casa como Analista de Testes Junior na Everis Uberlândia
