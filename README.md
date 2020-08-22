@@ -11,8 +11,8 @@
 
 ![American Flag](https://images.vexels.com/media/users/3/194472/isolated/lists/ce9112ed4e58188d1b7d8ff34cd852c3-patriotic-american-flag-element.png)
 
--  :point_left: I'm Lucas Henrique de Oliveira Andrade, and i live in Uberlândia - Minas Gerais
--  :house: I'm now working from home as a QA Analyst at Everis
+-  :point_left: I'm Lucas Henrique de Oliveira Andrade, and i live in Uberlândia - Minas Gerais - Brazil
+-  :house: I'm now working from home as a Junior QA Analyst at Everis
 -  :computer: Tech and Automation Enthusiast
 -  :bulb: Hobbyist Web Developer
 -  :zap: Studying Electrical Engineering at Federal University of Uberlândia
