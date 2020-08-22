@@ -1,7 +1,7 @@
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 
-![Brazilian Flag](https://image.flaticon.com/icons/svg/3022/3022562.svg)
+![Brazilian Flag](https://images.emojiterra.com/google/android-marshmallow/128px/1f1e7-1f1f7.png)
 
 -  :point_left: Me chamo Lucas Henrique de Oliveira Andrade, vivo em Uberlândia - Minas Gerais
 -  :house: Atualmente trabalho como Analista de Testes Junior na Everis Uberlândia no modelo Home Office
