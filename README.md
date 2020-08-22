@@ -2,7 +2,7 @@
 
 
 -  :point_left: Me chamo Lucas Henrique de Oliveira Andrade, vivo em Uberlândia - Minas Gerais
--  :house: Atualmente trabalho de casa como Analista de Testes Junior na Everis Uberlândia
+-  :house: Atualmente trabalho como Analista de Testes Junior na Everis Uberlândia no modelo Home Office
 -  :computer: Entusiasta de tecnologia e automação
 -  :bulb: Desenvolvedor Web por hobby
 -  :zap: Granduando em Engenharia Elétrica pela Universidade Federal de Uberlândia
