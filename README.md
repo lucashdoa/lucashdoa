@@ -9,7 +9,8 @@
 -  :zap: Granduando em Engenharia Elétrica pela Universidade Federal de Uberlândia
 
 
-
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![Website lbesson.bitbucket.org](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://lbesson.bitbucket.org/)
 <!--
 **Lucas5990/Lucas5990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
