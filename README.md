@@ -1,7 +1,7 @@
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 
--  :point_left: Me chamo Lucas Andrade, vivo em Uberlândia - Minas Gerais
+-  :point_left: Me chamo Lucas Henrique de Oliveira Andrade, vivo em Uberlândia - Minas Gerais
 -  :house: Atualmente trabalho de casa como Analista de Testes Junior na Everis Uberlândia
 -  :computer: Entusiasta de tecnologia e automação
 -  :bulb: Desenvolvedor Web por hobby
