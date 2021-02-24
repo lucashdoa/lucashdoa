@@ -1,5 +1,6 @@
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
+[Personal Website](http://everis.lucasandrade.xyz/)
 
 ![Brazilian Flag](https://images.emojiterra.com/google/android-marshmallow/128px/1f1e7-1f1f7.png)
 
