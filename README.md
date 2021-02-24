@@ -18,5 +18,5 @@
 -  :zap: Studying Electrical Engineering at Federal University of Uberlândia
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/lucas5990/)
-[![Website lbesson.bitbucket.org](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://lucasandrade.atwebpages.com/)
+[![Website lbesson.bitbucket.org](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://everis.lucasandrade.xyz/)
 
