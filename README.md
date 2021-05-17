@@ -1,9 +1,8 @@
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-
-[Personal Website](https://lucasandrade.xyz/)
+[![Website lbesson.bitbucket.org](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://lucasandrade.xyz/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashdoa)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashdoa)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -25,6 +24,5 @@
 -  :bulb: Hobbyist Web Developer
 -  :zap: Studying Electrical Engineering at Federal University of Uberlândia
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/lucas5990/)
-[![Website lbesson.bitbucket.org](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://everis.lucasandrade.xyz/)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/lucashdoa/)
 
