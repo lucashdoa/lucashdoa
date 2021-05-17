@@ -2,6 +2,9 @@
 
 [Personal Website](https://lucasandrade.xyz/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashdoa)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ![Brazilian Flag](https://images.emojiterra.com/google/android-marshmallow/128px/1f1e7-1f1f7.png)
