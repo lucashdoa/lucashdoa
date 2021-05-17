@@ -1,8 +1,7 @@
-[![Website lbesson.bitbucket.org](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](http://lucasandrade.xyz/)
+🌎 [Personal Website](https://lucasandrade.xyz)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashdoa)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashdoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Website lbesson.bitbucket.org](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://lucasandrade5990.medium.com/about)
+[![Ask Me Anything !](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashdoa/)
 
 ---
 
@@ -24,5 +23,9 @@
 -  :bulb: Hobbyist Web Developer
 -  :zap: Studying Electrical Engineering at Federal University of Uberlândia
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.linkedin.com/in/lucashdoa/)
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashdoa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashdoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
