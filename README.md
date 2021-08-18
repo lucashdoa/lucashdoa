@@ -12,7 +12,7 @@
 -  :house: Atualmente trabalho como QA Engineer na T10, no modelo Home Office
 -  :computer: Entusiasta de tecnologia e automação
 -  :bulb: Desenvolvedor Web por hobby
--  :zap: Granduando em Engenharia Elétrica pela Universidade Federal de Uberlândia
+-  :zap: Granduado em Engenharia Elétrica pela Universidade Federal de Uberlândia
 
 ---
 
@@ -22,7 +22,7 @@
 -  :house: I'm now working from home as a QA Engineer at T10
 -  :computer: Tech and Automation Enthusiast
 -  :bulb: Hobbyist Web Developer
--  :zap: Studying Electrical Engineering at Federal University of Uberlândia
+-  :zap: Electrical Engineer graduated at Federal University of Uberlândia
 
 ---
 
