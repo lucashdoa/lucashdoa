@@ -1,6 +1,5 @@
 🌎 [Personal Website](https://lucasandrade.xyz)
 
-[![Website lbesson.bitbucket.org](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://lucashdoa.medium.com)
 [![Ask Me Anything !](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashdoa/)
 [![Ask Me Anything !](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/lucashdoa)
 
